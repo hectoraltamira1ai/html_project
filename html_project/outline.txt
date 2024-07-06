@@ -1,1 +1,2 @@
 This project will display temperature in Fahrenheit.
+Also, this project will be in English.
