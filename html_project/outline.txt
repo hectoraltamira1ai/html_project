@@ -1,3 +1,4 @@
 This project will display temperature in Fahrenheit.
 Also, this project will be in English.
 This is the functionality to create an Celsius output.
+Added Celsius and English and French to App.
